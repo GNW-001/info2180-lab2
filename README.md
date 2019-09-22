@@ -1,2 +1,2 @@
-# info2180-lab2
-Lab 2 for INFO2180 - Dyanmic Web Development
+# INFO2180 Lab 2
+This is Lab 2 for Garrik Wong
